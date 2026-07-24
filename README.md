@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm iteoluwaleyi 👋
+Computer Science student.3rd year
 
-<!--
-**upYuki/upYuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Currently Learning
+- Python
+- Git & GitHub
+- Backend Development
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+learning:
+- Python
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Current Projects
+- Python Adventure Game
+- CGPA calculator
+- calculator
+
+## 🎯 Goals
+- Build software that solves real problems
+- Contribute to open source
+- Become a backend engineer
+
